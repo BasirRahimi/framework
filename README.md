@@ -1,5 +1,5 @@
 # framework
 
-~ npm install
-~ gulp
-~ build files in dist
+~ npm install  
+~ gulp  
+~ build files in dist 
